@@ -26,10 +26,11 @@
 		<p class="hero"><a href="http://twitter.com/sent1nel" class="circle">
 	<img src="http://www.gravatar.com/avatar/366d95ab4984162d53d9477d17850297.png" alt="Joshua Farrar">
 </a></p>
-		<p><strong>I'm Joshua</strong>, developer, UX, product designer &amp; maker of technology for good.</p>
+		<p><strong>I'm Joshua</strong>, developer, UX, product designer &amp; maker of technology for good. <a href="https://www.charitywater.org/donate/">I give water</a>.</p>
 		<ul class="social">
 			<li class="twitter"><a href="http://twitter.com/sent1nel" title="Twitter"></a></li>
 			<li class="github"><a href="http://github.com/sent1nel" title="Github"></a></li>
+			<li class="linkedin"><a href="http://linkedin.com/in/sent1nel" title="LinkedIn"></a></li>
 			<li class="email"><a href="mailto:joshua@sent1nel.me" title="Email"></a></li>
 		</ul>
 	</div>

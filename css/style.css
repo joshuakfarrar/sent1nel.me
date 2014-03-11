@@ -62,6 +62,7 @@ ul li a { opacity: 0.5; }
 ul li a:hover { opacity: 1; -webkit-transition:all 0.2s ease-in-out; }
 ul li.twitter a { width: 48px; height: 48px; display: block; background: transparent url('http://sent1nel.me/images/twitter_icn.png') top center no-repeat; text-indent: -9999px; }
 ul li.github a { width: 48px; height: 48px; display: block; background: transparent url('http://sent1nel.me/images/github_icn.png') top center no-repeat; text-indent: -9999px; }
+ul li.linkedin a { width: 48px; height: 48px; display: block; background: transparent url('http://sent1nel.me/images/linkedin_icn.png') top center no-repeat; text-indent: -9999px; }
 ul li.email a { width: 48px; height: 48px; display: block; background: transparent url('http://sent1nel.me/images/email_icn.png') top center no-repeat; text-indent: -9999px; }
 
 .logo h1 a { width: 60px; height: 79px; display: block; background: url('http://sent1nel.me/images/logo.png') top center no-repeat; text-indent: -9999px; padding: 0; margin: 0 auto; border: none; text-align: center; }
